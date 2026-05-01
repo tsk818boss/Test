@@ -1,0 +1,472 @@
+#EXTM3U
+#EXTM3U url-tvg="http://mediatv.isppak.eu:8080/xmltv.php?username=test1234&password=test1234" tvg-shift="0"
+#EXTINF:-1 tvg-id="1732039" tvg-name="ind-kids: Sonic" tvg-logo="http://picons.cmshulk.com/picons/1540024.png" group-title="INDIAN KIDS",ind-kids: Sonic
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732039.ts
+#EXTINF:-1 tvg-id="1732038" tvg-name="Ind-Kids: Pogo" tvg-logo="http://picons.cmshulk.com/picons/156128.png" group-title="INDIAN KIDS",Ind-Kids: Pogo
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732038.ts
+#EXTINF:-1 tvg-id="1732037" tvg-name="Ind-Kids: Nick" tvg-logo="http://picons.cmshulk.com/picons/1540022.png" group-title="INDIAN KIDS",Ind-Kids: Nick
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732037.ts
+#EXTINF:-1 tvg-id="1732036" tvg-name="Ind-Kids: Hungama tv" tvg-logo="http://103.176.90.118/picons/logos/logos/HUNGAMA-POP-PATAKA.png" group-title="INDIAN KIDS",Ind-Kids: Hungama tv
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732036.ts
+#EXTINF:-1 tvg-id="1732035" tvg-name="Ind-Kids: Disney tv" tvg-logo="https://server4ip.ath.cx/logo/tv/dd/disney_channel_global.png" group-title="INDIAN KIDS",Ind-Kids: Disney tv
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732035.ts
+#EXTINF:-1 tvg-id="1732034" tvg-name="ind-kids: Disney junior" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920784.png" group-title="INDIAN KIDS",ind-kids: Disney junior
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732034.ts
+#EXTINF:-1 tvg-id="1732033" tvg-name="Ind-Kids: Discovery Kids" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/DISCOVERYKIDSHD/EXPORTACION_WEB/SS/DISCOVERYKIDSHDWHORIZONTAL.jpg?size=290x163" group-title="INDIAN KIDS",Ind-Kids: Discovery Kids
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732033.ts
+#EXTINF:-1 tvg-id="1732032" tvg-name="Ind-Kids: Chutti Tv" tvg-logo="http://103.176.90.118/picons/logos/logos/CHUTTI.png" group-title="INDIAN KIDS",Ind-Kids: Chutti Tv
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732032.ts
+#EXTINF:-1 tvg-id="1732031" tvg-name="Ind-Kids: Cartoon Network fhd" tvg-logo="http://picons.cmshulk.com/picons/280748.png" group-title="INDIAN KIDS",Ind-Kids: Cartoon Network fhd
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732031.ts
+#EXTINF:-1 tvg-id="1732056" tvg-name="ZEE TV FHD 1080" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png" group-title="INDIAN ZEE PACK",ZEE TV FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732056.ts
+#EXTINF:-1 tvg-id="1732055" tvg-name="Zee Telegu FHD 1080" tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TELUGU.png" group-title="INDIAN ZEE PACK",Zee Telegu FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732055.ts
+#EXTINF:-1 tvg-id="1732054" tvg-name="Zee Tamil FHD 1080" tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TAMIL.png" group-title="INDIAN ZEE PACK",Zee Tamil FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732054.ts
+#EXTINF:-1 tvg-id="1732053" tvg-name="ZEE TALKIE FHD 1080" tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TALKIES.png" group-title="INDIAN ZEE PACK",ZEE TALKIE FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732053.ts
+#EXTINF:-1 tvg-id="1732052" tvg-name="ZEE CINEMA FHD 1080" tvg-logo="http://picons.cmshulk.com/picons/308949.png" group-title="INDIAN ZEE PACK",ZEE CINEMA FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732052.ts
+#EXTINF:-1 tvg-id="1732051" tvg-name="ZEE Cafe FHD 1080" tvg-logo="http://picons.cmshulk.com/picons/1532856.png" group-title="INDIAN ZEE PACK",ZEE Cafe FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732051.ts
+#EXTINF:-1 tvg-id="1732050" tvg-name="zee bangla FHD 1080" tvg-logo="http://picons.cmshulk.com/picons/155774.png" group-title="INDIAN ZEE PACK",zee bangla FHD 1080
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732050.ts
+#EXTINF:-1 tvg-id="1732049" tvg-name="IND: Zee News" tvg-logo="http://picons.cmshulk.com/picons/156051.png" group-title="INDIAN ZEE PACK",IND: Zee News
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732049.ts
+#EXTINF:-1 tvg-id="1732048" tvg-name="Ind: zee ganga" tvg-logo="http://picons.cmshulk.com/picons/1531202.png" group-title="INDIAN ZEE PACK",Ind: zee ganga
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732048.ts
+#EXTINF:-1 tvg-id="1732047" tvg-name="Ind: ZEE CinemaluHD" tvg-logo="http://picons.cmshulk.com/picons/155872.png" group-title="INDIAN ZEE PACK",Ind: ZEE CinemaluHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732047.ts
+#EXTINF:-1 tvg-id="1732046" tvg-name="IND: zee BollyWood" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1423448.png" group-title="INDIAN ZEE PACK",IND: zee BollyWood
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732046.ts
+#EXTINF:-1 tvg-id="1732045" tvg-name="Ind: Zee Biskope" tvg-logo="http://picons.cmshulk.com/picons/1540043.png" group-title="INDIAN ZEE PACK",Ind: Zee Biskope
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732045.ts
+#EXTINF:-1 tvg-id="1732044" tvg-name="IND-loc: ZEE_ACTION" tvg-logo="http://picons.cmshulk.com/picons/156139.png" group-title="INDIAN ZEE PACK",IND-loc: ZEE_ACTION
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732044.ts
+#EXTINF:-1 tvg-id="1732043" tvg-name="IND-Hindi: ZEE_ANMOL" tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-ANMOL-CINEMA.png" group-title="INDIAN ZEE PACK",IND-Hindi: ZEE_ANMOL
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732043.ts
+#EXTINF:-1 tvg-id="1732042" tvg-name="IND-Hindi: ZEE_ACTION" tvg-logo="http://picons.cmshulk.com/picons/156139.png" group-title="INDIAN ZEE PACK",IND-Hindi: ZEE_ACTION
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732042.ts
+#EXTINF:-1 tvg-id="1732041" tvg-name="IND-Hindi: zee TV HD" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png" group-title="INDIAN ZEE PACK",IND-Hindi: zee TV HD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732041.ts
+#EXTINF:-1 tvg-id="1732040" tvg-name="IND-Hindi: Zee Cinema HD" tvg-logo="http://picons.cmshulk.com/picons/308949.png" group-title="INDIAN ZEE PACK",IND-Hindi: Zee Cinema HD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1732040.ts
+#EXTINF:-1 tvg-id="1947149" tvg-name="IN-TG | GEMINI MOVIES FHD" group-title="INDIAN TELUGU",IN-TG | GEMINI MOVIES FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947149.ts
+#EXTINF:-1 tvg-id="1947148" tvg-name="IN-TG | TS GEMINI MUSIC HD" group-title="INDIAN TELUGU",IN-TG | TS GEMINI MUSIC HD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947148.ts
+#EXTINF:-1 tvg-id="1947147" tvg-name="IN-TG | D2H GEMINI COMEDY" group-title="INDIAN TELUGU",IN-TG | D2H GEMINI COMEDY
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947147.ts
+#EXTINF:-1 tvg-id="1947146" tvg-name="IN-TG | D2H NICK" group-title="INDIAN TELUGU",IN-TG | D2H NICK
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947146.ts
+#EXTINF:-1 tvg-id="1947145" tvg-name="IN-TG | TS POGO" group-title="INDIAN TELUGU",IN-TG | TS POGO
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947145.ts
+#EXTINF:-1 tvg-id="1947144" tvg-name="IN-TG | D2H DISNEY JUNIOR" group-title="INDIAN TELUGU",IN-TG | D2H DISNEY JUNIOR
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947144.ts
+#EXTINF:-1 tvg-id="1947143" tvg-name="IN-TG | D2H DISCOVERY KIDS" group-title="INDIAN TELUGU",IN-TG | D2H DISCOVERY KIDS
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947143.ts
+#EXTINF:-1 tvg-id="1947142" tvg-name="IN-TG | D2H CARTOON NETWORK" group-title="INDIAN TELUGU",IN-TG | D2H CARTOON NETWORK
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947142.ts
+#EXTINF:-1 tvg-id="1947141" tvg-name="IN-TG | D2H TV9 TELUGU FHD" group-title="INDIAN TELUGU",IN-TG | D2H TV9 TELUGU FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947141.ts
+#EXTINF:-1 tvg-id="1947140" tvg-name="IN-TG | TS ETV CINEMA" group-title="INDIAN TELUGU",IN-TG | TS ETV CINEMA
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947140.ts
+#EXTINF:-1 tvg-id="1947139" tvg-name="IN-TG | D2H ETV LIFE" group-title="INDIAN TELUGU",IN-TG | D2H ETV LIFE
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947139.ts
+#EXTINF:-1 tvg-id="1947138" tvg-name="IN-TG | D2H ETV FHD" group-title="INDIAN TELUGU",IN-TG | D2H ETV FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947138.ts
+#EXTINF:-1 tvg-id="1947137" tvg-name="IN-TG | TS DD SAPTAGIRI" group-title="INDIAN TELUGU",IN-TG | TS DD SAPTAGIRI
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947137.ts
+#EXTINF:-1 tvg-id="1947136" tvg-name="IN-TG | D2H BHAKTI TV" group-title="INDIAN TELUGU",IN-TG | D2H BHAKTI TV
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947136.ts
+#EXTINF:-1 tvg-id="1947135" tvg-name="IN-TG | D2H &FLIX FHD" group-title="INDIAN TELUGU",IN-TG | D2H &FLIX FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947135.ts
+#EXTINF:-1 tvg-id="1947134" tvg-name="IN-TG | TS DD YADAGIRI" group-title="INDIAN TELUGU",IN-TG | TS DD YADAGIRI
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947134.ts
+#EXTINF:-1 tvg-id="1947133" tvg-name="IN-TG | D2H KUSHI TV HD" group-title="INDIAN TELUGU",IN-TG | D2H KUSHI TV HD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947133.ts
+#EXTINF:-1 tvg-id="1947132" tvg-name="IN-TG | TS GEMINI TV FHD" group-title="INDIAN TELUGU",IN-TG | TS GEMINI TV FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947132.ts
+#EXTINF:-1 tvg-id="1947131" tvg-name="IN-TG | D2H HISTORY TV18 FHD" group-title="INDIAN TELUGU",IN-TG | D2H HISTORY TV18 FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947131.ts
+#EXTINF:-1 tvg-id="1947130" tvg-name="IN-TG | D2H DISCOVERY CHANNEL FHD" group-title="INDIAN TELUGU",IN-TG | D2H DISCOVERY CHANNEL FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947130.ts
+#EXTINF:-1 tvg-id="1947129" tvg-name="IN-TG | D2H NAT GEO WILD FHD" group-title="INDIAN TELUGU",IN-TG | D2H NAT GEO WILD FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947129.ts
+#EXTINF:-1 tvg-id="1947128" tvg-name="IN-TG | D2H NATIONAL GEOGRAPHICS FHD" group-title="INDIAN TELUGU",IN-TG | D2H NATIONAL GEOGRAPHICS FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947128.ts
+#EXTINF:-1 tvg-id="1947127" tvg-name="IN-TG | D2H ZEE CINEMALU FHD" group-title="INDIAN TELUGU",IN-TG | D2H ZEE CINEMALU FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947127.ts
+#EXTINF:-1 tvg-id="1947126" tvg-name="IN-TG | D2H ZEE TELUGU FHD" group-title="INDIAN TELUGU",IN-TG | D2H ZEE TELUGU FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947126.ts
+#EXTINF:-1 tvg-id="1947125" tvg-name="IN-TG | D2H SONY BBC EARTH FHD" group-title="INDIAN TELUGU",IN-TG | D2H SONY BBC EARTH FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947125.ts
+#EXTINF:-1 tvg-id="1947124" tvg-name="IN-TG | D2H SONY YAY" group-title="INDIAN TELUGU",IN-TG | D2H SONY YAY
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947124.ts
+#EXTINF:-1 tvg-id="1947123" tvg-name="IN-TG | D2H STAR MAA FHD" group-title="INDIAN TELUGU",IN-TG | D2H STAR MAA FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947123.ts
+#EXTINF:-1 tvg-id="1947122" tvg-name="IN-TG |  STAR MAA MOVIES FHD" group-title="INDIAN TELUGU",IN-TG |  STAR MAA MOVIES FHD
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947122.ts
+#EXTINF:-1 tvg-id="1947121" tvg-name="IN-TG | D2H GEMINI LIFE" group-title="INDIAN TELUGU",IN-TG | D2H GEMINI LIFE
+http://mediatv.isppak.eu:8080/live/test1234/test1234/1947121.ts
+#EXTINF:-1 tvg-id="1888796" tvg-name="Chal Mera Putt 4 (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9iBBjh3DvOZB91aNU8l8Gf1zfx.jpg" group-title="Movie: New Releases CAM",Chal Mera Putt 4 (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1888796.mkv
+#EXTINF:-1 tvg-id="1887407" tvg-name="Chaniya Toli (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DS54BX7sPJ50FfoZ1o4Miwgnhc.jpg" group-title="Movie: New Releases CAM",Chaniya Toli (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1887407.mp4
+#EXTINF:-1 tvg-id="1887405" tvg-name="Ek Deewane Ki Deewaniyat (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQGzsELM0n6FOngNRGEIx9nqDwV.jpg" group-title="Movie: New Releases CAM",Ek Deewane Ki Deewaniyat (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1887405.mkv
+#EXTINF:-1 tvg-id="1888285" tvg-name="Laalo: Krishna Sada Sahaayate (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tViDPmnjZG7MHFssC2duXjOgxd4.jpg" group-title="Movie: New Releases CAM",Laalo: Krishna Sada Sahaayate (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1888285.mkv
+#EXTINF:-1 tvg-id="1885870" tvg-name="Madhaniyan (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRAnP7qxYjpzOpUbTi081KCsgkR.jpg" group-title="Movie: New Releases CAM",Madhaniyan (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1885870.mp4
+#EXTINF:-1 tvg-id="1888628" tvg-name="Zootopia 2 (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="Movie: New Releases CAM",Zootopia 2 (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1888628.mp4
+#EXTINF:-1 tvg-id="2165793" tvg-name="Michael (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg" group-title="Movie: New Releases CAM",Michael (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2165793.mkv
+#EXTINF:-1 tvg-id="2159379" tvg-name="Project Hail Mary (2026) HD Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movie: New Releases CAM",Project Hail Mary (2026) HD Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2159379.mkv
+#EXTINF:-1 tvg-id="2158375" tvg-name="The Super Mario Galaxy Movie (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="Movie: New Releases CAM",The Super Mario Galaxy Movie (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2158375.mkv
+#EXTINF:-1 tvg-id="2154087" tvg-name="Hoppers (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="Movie: New Releases CAM",Hoppers (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2154087.mkv
+#EXTINF:-1 tvg-id="2154083" tvg-name="Peaky Blinders: The Immortal Man (2026) HD Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movie: New Releases CAM",Peaky Blinders: The Immortal Man (2026) HD Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2154083.mkv
+#EXTINF:-1 tvg-id="2154063" tvg-name="Send Help (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlV70IuchLZXcXKowjwSpSfdfUB.jpg" group-title="Movie: New Releases CAM",Send Help (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2154063.mkv
+#EXTINF:-1 tvg-id="2154005" tvg-name="Scream 7 (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="Movie: New Releases CAM",Scream 7 (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2154005.mkv
+#EXTINF:-1 tvg-id="2148385" tvg-name="Bambukat 2 (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZToIdLzKfaG0sv2JKuJQMMD8Qd.jpg" group-title="Movie: New Releases CAM",Bambukat 2 (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2148385.mkv
+#EXTINF:-1 tvg-id="2134399" tvg-name="Crime 101 (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="Movie: New Releases CAM",Crime 101 (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2134399.mkv
+#EXTINF:-1 tvg-id="2013647" tvg-name="28 Years Later: The Bone Temple (2026) Cam Dual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movie: New Releases CAM",28 Years Later: The Bone Temple (2026) Cam Dual
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2013647.mkv
+#EXTINF:-1 tvg-id="1995358" tvg-name="Border 2 (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg" group-title="Movie: New Releases CAM",Border 2 (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1995358.mp4
+#EXTINF:-1 tvg-id="1988717" tvg-name="Shelter (2026) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/903mfuYcAEC20o52mxOMAkCCS3M.jpg" group-title="Movie: New Releases CAM",Shelter (2026) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1988717.mkv
+#EXTINF:-1 tvg-id="1955031" tvg-name="The Rajasaab (2026) Cam Multi-Audio Hindi-Tamil-Telugu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="Movie: New Releases CAM",The Rajasaab (2026) Cam Multi-Audio Hindi-Tamil-Telugu
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1955031.mkv
+#EXTINF:-1 tvg-id="1955030" tvg-name="The Rajasaab (2026) Cam Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="Movie: New Releases CAM",The Rajasaab (2026) Cam Hindi
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1955030.mkv
+#EXTINF:-1 tvg-id="1954997" tvg-name="The Housemaid (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg" group-title="Movie: New Releases CAM",The Housemaid (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1954997.mp4
+#EXTINF:-1 tvg-id="1952747" tvg-name="Avatar: Fire and Ash (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzCsmggqZc7fOmkAXZXXvsdxOsq.jpg" group-title="Movie: New Releases CAM",Avatar: Fire and Ash (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1952747.mp4
+#EXTINF:-1 tvg-id="1952730" tvg-name="Anaconda (2025) Cam Dual Hindi-Eng" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg" group-title="Movie: New Releases CAM",Anaconda (2025) Cam Dual Hindi-Eng
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1952730.mkv
+#EXTINF:-1 tvg-id="1949420" tvg-name="Chal Mera Putt 3 (2021) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfWoizkLad2nrFSmqNr3eFcbPi5.jpg" group-title="Movie: New Releases CAM",Chal Mera Putt 3 (2021) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1949420.mkv
+#EXTINF:-1 tvg-id="1932093" tvg-name="Akaal: The Unconquered (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzf5rPLoE5DdYkcZlvYbrH554rE.jpg" group-title="Movie: New Releases CAM",Akaal: The Unconquered (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1932093.mkv
+#EXTINF:-1 tvg-id="1932092" tvg-name="Sardaarji 3 (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncLqJpmFlTxHbgeVRrdKZrHGfUl.jpg" group-title="Movie: New Releases CAM",Sardaarji 3 (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1932092.mkv
+#EXTINF:-1 tvg-id="1926571" tvg-name="Hunting Season (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movie: New Releases CAM",Hunting Season (2025)
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1926571.mp4
+#EXTINF:-1 tvg-id="1920813" tvg-name="Bandaa Singh Chaudhary (2024) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnWvZsgNFwc5auAvChSeQhlGPAq.jpg" group-title="Movie: New Releases CAM",Bandaa Singh Chaudhary (2024) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1920813.mp4
+#EXTINF:-1 tvg-id="1919803" tvg-name="Tere Ishk Mein (2025) Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iuP6dNzOzEnwH14DzzRn5BHA54.jpg" group-title="Movie: New Releases CAM",Tere Ishk Mein (2025) Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1919803.mkv
+#EXTINF:-1 tvg-id="1918232" tvg-name="120 Bahadur (2025) HD-Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdxf02vUous6fty6O4nollyuo4m.jpg" group-title="Movie: New Releases CAM",120 Bahadur (2025) HD-Cam
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1918232.mkv
+#EXTINF:-1 tvg-id="1982527" tvg-name="All Alone Together - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Amazon Prime",All Alone Together - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1982527.mkv
+#EXTINF:-1 tvg-id="1887829" tvg-name="Babo: The Haftbefehl Story (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFoKuQj5O4XJ8t0O0pQ4TJ5WR5G.jpg" group-title="Movie: Netflix",Babo: The Haftbefehl Story (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1887829.mp4
+#EXTINF:-1 tvg-id="1888276" tvg-name="Havoc (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg" group-title="Movie: Netflix",Havoc (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1888276.mp4
+#EXTINF:-1 tvg-id="1888061" tvg-name="Sangre del Toro (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6gRde2TqBimsn1WTj4bgx0mnL.jpg" group-title="Movie: Netflix",Sangre del Toro (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1888061.mp4
+#EXTINF:-1 tvg-id="2146658" tvg-name="in the moment 2026" group-title="Movie: Netflix",in the moment 2026
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2146658.mp4
+#EXTINF:-1 tvg-id="2095160" tvg-name="The Pope's Exorcist (2023) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg" group-title="Movie: Netflix",The Pope's Exorcist (2023) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2095160.mp4
+#EXTINF:-1 tvg-id="1929925" tvg-name="172 Days (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbeSOr5ODJMHMzR4hbLXhnHNs1S.jpg" group-title="Movie: Netflix",172 Days (2023) HD
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1929925.mkv
+#EXTINF:-1 tvg-id="2159893" tvg-name="Ustaad Bhagat Singh (2026) TEL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="Movie: Telugu Movies",Ustaad Bhagat Singh (2026) TEL
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2159893.mkv
+#EXTINF:-1 tvg-id="2155364" tvg-name="- Alien: Romulus - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg" group-title="Movie: Telugu Movies",- Alien: Romulus - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2155364.mkv
+#EXTINF:-1 tvg-id="2155363" tvg-name="Do patti - 2024" group-title="Movie: Telugu Movies",Do patti - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/2155363.mkv
+#EXTINF:-1 tvg-id="1992578" tvg-name="- యేవమ్ - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkDoVO3WujOZgh7TRpOjKkrBFkM.jpg" group-title="Movie: Telugu Movies",- యేవమ్ - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992578.mkv
+#EXTINF:-1 tvg-id="1992576" tvg-name="Teenagers 1718 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Teenagers 1718 - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992576.mkv
+#EXTINF:-1 tvg-id="1992575" tvg-name="Dhoom Dhaam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Dhoom Dhaam - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992575.mkv
+#EXTINF:-1 tvg-id="1992574" tvg-name="- అందరూ బాగుండాలి అందులో నేనుండాలి - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEFmo7Y1um6iE8yxXgdEQTDL2f7.jpg" group-title="Movie: Telugu Movies",- అందరూ బాగుండాలి అందులో నేనుండాలి - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992574.mkv
+#EXTINF:-1 tvg-id="1992572" tvg-name="- ఆ అమ్మాయి గురించి మీకు చెప్పాలి - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6y1kPTeGswSzAie1XTisDV6TB2.jpg" group-title="Movie: Telugu Movies",- ఆ అమ్మాయి గురించి మీకు చెప్పాలి - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992572.mkv
+#EXTINF:-1 tvg-id="1992571" tvg-name="Viswam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Viswam - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992571.mkv
+#EXTINF:-1 tvg-id="1992570" tvg-name="- Vishwak - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CKETl9p1gR9FgwHnzfNHEQgvsE.jpg" group-title="Movie: Telugu Movies",- Vishwak - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992570.mkv
+#EXTINF:-1 tvg-id="1992569" tvg-name="- विजय 69 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSQzRaYyKEjM8gEyhqayU4rhbdU.jpg" group-title="Movie: Telugu Movies",- विजय 69 - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992569.mkv
+#EXTINF:-1 tvg-id="1992568" tvg-name="- வேட்டையன் - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEEyhQaW7cEb0IDJstoMBmEtPND.jpg" group-title="Movie: Telugu Movies",- வேட்டையன் - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992568.mkv
+#EXTINF:-1 tvg-id="1992567" tvg-name="Varisu - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Varisu - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992567.mkv
+#EXTINF:-1 tvg-id="1992566" tvg-name="- Valentine's Night - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTkBJUR64jjC8Rz6v3qEm1ihHGj.jpg" group-title="Movie: Telugu Movies",- Valentine's Night - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992566.mkv
+#EXTINF:-1 tvg-id="1992565" tvg-name="Toofan - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Toofan - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992565.mkv
+#EXTINF:-1 tvg-id="1992564" tvg-name="- The Mitchells vs. the Machines - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI2Di7HmskQQ34kz0iau6J1vr70.jpg" group-title="Movie: Telugu Movies",- The Mitchells vs. the Machines - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992564.mkv
+#EXTINF:-1 tvg-id="1992563" tvg-name="- తగ్గేదే లే - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TQJwWUwwGLDcD5z353PzijEfKv.jpg" group-title="Movie: Telugu Movies",- తగ్గేదే లే - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992563.mkv
+#EXTINF:-1 tvg-id="1992562" tvg-name="Temper - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Temper - 2015
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992562.mp4
+#EXTINF:-1 tvg-id="1992561" tvg-name="Teenz - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Teenz - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992561.mkv
+#EXTINF:-1 tvg-id="1992560" tvg-name="Swag - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Swag - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992560.mkv
+#EXTINF:-1 tvg-id="1992559" tvg-name="- Suraapanam - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAezEnuAbHKCuTZEXQoSUsYDu6w.jpg" group-title="Movie: Telugu Movies",- Suraapanam - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992559.mkv
+#EXTINF:-1 tvg-id="1992558" tvg-name="Srimanthudu - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Srimanthudu - 2015
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992558.mkv
+#EXTINF:-1 tvg-id="1992557" tvg-name="- శ్రీదేవి శోభన్‌బాబు - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsTWux7kY9pNzmSYQKzbOPNZX4n.jpg" group-title="Movie: Telugu Movies",- శ్రీదేవి శోభన్‌బాబు - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992557.mkv
+#EXTINF:-1 tvg-id="1992556" tvg-name="Simhadri - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Simhadri - 2003
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992556.mp4
+#EXTINF:-1 tvg-id="1992555" tvg-name="- Siddharth Roy - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRxvMJo1OgYlgphiiuX0dLwYFeV.jpg" group-title="Movie: Telugu Movies",- Siddharth Roy - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992555.mkv
+#EXTINF:-1 tvg-id="1992554" tvg-name="- స‌రిపోదా శ‌నివారం - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2yVhbMkpi4JvvdIhvRpS0Muge7.jpg" group-title="Movie: Telugu Movies",- స‌రిపోదా శ‌నివారం - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992554.mkv
+#EXTINF:-1 tvg-id="1992553" tvg-name="- సామజవరగమన - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuyNHfcDJVwLfhgjHYmXlQZyK93.jpg" group-title="Movie: Telugu Movies",- సామజవరగమన - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992553.mkv
+#EXTINF:-1 tvg-id="1992552" tvg-name="Rudhran - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Rudhran - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992552.mkv
+#EXTINF:-1 tvg-id="1992551" tvg-name="Puli: The 19th Century - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Puli: The 19th Century - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992551.mkv
+#EXTINF:-1 tvg-id="1992550" tvg-name="- Ottu - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB5c2ovArPMdd6iCZLUFvu8d57r.jpg" group-title="Movie: Telugu Movies",- Ottu - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992550.mkv
+#EXTINF:-1 tvg-id="1992549" tvg-name="- ఊహలు గుసగుసలాడే - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjdE0IHq06phpwnsRy8Fb8lA4wt.jpg" group-title="Movie: Telugu Movies",- ఊహలు గుసగుసలాడే - 2014
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992549.mkv
+#EXTINF:-1 tvg-id="1992548" tvg-name="Nireekshana - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Nireekshana - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992548.mkv
+#EXTINF:-1 tvg-id="1992547" tvg-name="Neetho - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Neetho - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992547.mkv
+#EXTINF:-1 tvg-id="1992546" tvg-name="Nayakudu - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Nayakudu - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992546.mkv
+#EXTINF:-1 tvg-id="1992545" tvg-name="- Narayana & Co - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDyn0wXdMQBAIEEr6Y4WCa9EZwp.jpg" group-title="Movie: Telugu Movies",- Narayana & Co - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992545.mkv
+#EXTINF:-1 tvg-id="1992544" tvg-name="- నచ్చింది Girl Frienడూ - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOyQqVenAMDjzXxOCYAVrMF4Cjh.jpg" group-title="Movie: Telugu Movies",- నచ్చింది Girl Frienడూ - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992544.mkv
+#EXTINF:-1 tvg-id="1992543" tvg-name="- Mr. King - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hcuXysMgXrfAGrod67s6hBL5eR.jpg" group-title="Movie: Telugu Movies",- Mr. King - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992543.mkv
+#EXTINF:-1 tvg-id="1992542" tvg-name="- మిస్టర్‌ బచ్చన్ - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55TWpe9GvJEx2dq8fWoroIbJRvI.jpg" group-title="Movie: Telugu Movies",- మిస్టర్‌ బచ్చన్ - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992542.mkv
+#EXTINF:-1 tvg-id="1992541" tvg-name="- Mercy Killing - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39FGS3hrAeH7sQOP7jF2ZCZLVMG.jpg" group-title="Movie: Telugu Movies",- Mercy Killing - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992541.mkv
+#EXTINF:-1 tvg-id="1992540" tvg-name="- మాచర్ల నియోజకవర్గం - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xADPZyP9ThxUacrrQi0nqGLzmUT.jpg" group-title="Movie: Telugu Movies",- మాచర్ల నియోజకవర్గం - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992540.mkv
+#EXTINF:-1 tvg-id="1992539" tvg-name="Level cross - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Level cross - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992539.mkv
+#EXTINF:-1 tvg-id="1992538" tvg-name="- లెహరాయి - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHNITvSaHCjS6Y88IzC7kX7MtV0.jpg" group-title="Movie: Telugu Movies",- లెహరాయి - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992538.mkv
+#EXTINF:-1 tvg-id="1992537" tvg-name="- கோழிப்பண்ணை செல்லதுரை - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsTZduXemG87iGj3djhF7IGooQX.jpg" group-title="Movie: Telugu Movies",- கோழிப்பண்ணை செல்லதுரை - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992537.mkv
+#EXTINF:-1 tvg-id="1992536" tvg-name="- கருங்காப்பியம் - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ssa2D45PoAdp9lqb5r9reOsREr.jpg" group-title="Movie: Telugu Movies",- கருங்காப்பியம் - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992536.mkv
+#EXTINF:-1 tvg-id="1992535" tvg-name="- ఇట్లు మారేడుమిల్లి ప్రజానీకం - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZgLGowX4xyQ2i8uVn5Zweb2ZYx.jpg" group-title="Movie: Telugu Movies",- ఇట్లు మారేడుమిల్లి ప్రజానీకం - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992535.mkv
+#EXTINF:-1 tvg-id="1992534" tvg-name="- House Arrest - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHAx1klAv4wYfraTYbpoaDtGPw2.jpg" group-title="Movie: Telugu Movies",- House Arrest - 2019
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992534.mkv
+#EXTINF:-1 tvg-id="1992533" tvg-name="- Her - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK0dddVx9QMUsEGlFqUmwbWeOo9.jpg" group-title="Movie: Telugu Movies",- Her - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992533.mkv
+#EXTINF:-1 tvg-id="1992532" tvg-name="- గ్రంథాలయం - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",- గ్రంథాలయం - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992532.mkv
+#EXTINF:-1 tvg-id="1992531" tvg-name="Golam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Golam - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992531.mkv
+#EXTINF:-1 tvg-id="1992530" tvg-name="Goat The Greates of All Time - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Goat The Greates of All Time - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992530.mkv
+#EXTINF:-1 tvg-id="1992529" tvg-name="- గామి - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nruKcKWmuP7ce7sBGBNViHJaZrZ.jpg" group-title="Movie: Telugu Movies",- గామి - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992529.mkv
+#EXTINF:-1 tvg-id="1992528" tvg-name="Emi Sethura Linga - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Emi Sethura Linga - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992528.mkv
+#EXTINF:-1 tvg-id="1992526" tvg-name="Devara - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Devara - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992526.mkv
+#EXTINF:-1 tvg-id="1992525" tvg-name="Demonate Colony 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Demonate Colony 2 - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992525.mkv
+#EXTINF:-1 tvg-id="1992524" tvg-name="- CSI సనాతన్‌ - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg" group-title="Movie: Telugu Movies",- CSI సనాతన్‌ - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992524.mkv
+#EXTINF:-1 tvg-id="1992523" tvg-name="- Crazy Fellow - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fI7Kz1IeO70xopwDV9PSVxaHlEk.jpg" group-title="Movie: Telugu Movies",- Crazy Fellow - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992523.mkv
+#EXTINF:-1 tvg-id="1992522" tvg-name="- కమిటీ కుర్రోళ్లు - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKiYjm8sOYYQbr2CefFaTThjFAT.jpg" group-title="Movie: Telugu Movies",- కమిటీ కుర్రోళ్లు - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992522.mkv
+#EXTINF:-1 tvg-id="1992521" tvg-name="- Clue - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9oVfFGNiQeWpqF6PHSodirh97y.jpg" group-title="Movie: Telugu Movies",- Clue - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992521.mkv
+#EXTINF:-1 tvg-id="1992520" tvg-name="- భువనవిజయం - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07Zm4uGED4znLwrkfrFS2zBXB5.jpg" group-title="Movie: Telugu Movies",- భువనవిజయం - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992520.mkv
+#EXTINF:-1 tvg-id="1992519" tvg-name="- అనుకోని ప్రయాణం - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZssBWSWr0aYGuuIT2pnhsarkFo.jpg" group-title="Movie: Telugu Movies",- అనుకోని ప్రయాణం - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992519.mkv
+#EXTINF:-1 tvg-id="1992518" tvg-name="- Annapurna Photo Studio - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soJfroW9lTIoH93TlJVk4BK7iMw.jpg" group-title="Movie: Telugu Movies",- Annapurna Photo Studio - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992518.mkv
+#EXTINF:-1 tvg-id="1992517" tvg-name="Akshara - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Akshara - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992517.mkv
+#EXTINF:-1 tvg-id="1992516" tvg-name="- AI Love You - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wqqlUVCPjOA05p4B8dKOHmKOXI.jpg" group-title="Movie: Telugu Movies",- AI Love You - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992516.mkv
+#EXTINF:-1 tvg-id="1992515" tvg-name="- AAW Unstoppable - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddBSxqyqKn1Zd6osSQuTSqcqw5C.jpg" group-title="Movie: Telugu Movies",- AAW Unstoppable - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992515.mkv
+#EXTINF:-1 tvg-id="1992514" tvg-name="- 1920: Horrors of the Heart - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTe8eTiHocRLjMnx6ArBovQRqbe.jpg" group-title="Movie: Telugu Movies",- 1920: Horrors of the Heart - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992514.mkv
+#EXTINF:-1 tvg-id="1992513" tvg-name="- 18 పేజెస్ - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6SdWIh7gY6x84isJkfrD9SNiJ7.jpg" group-title="Movie: Telugu Movies",- 18 పేజెస్ - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1992513.mkv
+#EXTINF:-1 tvg-id="1888060" tvg-name="Mithra Mandali (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1nFTGWgoP1FAiDsE0NJXTVjORk.jpg" group-title="Movie: Telugu Movies",Mithra Mandali (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1888060.mp4
+#EXTINF:-1 tvg-id="1884309" tvg-name="They Call Him OG (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWOJ4VMyF92IEcTmrQO0xFDqeyk.jpg" group-title="Movie: Telugu Movies",They Call Him OG (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1884309.mp4
+#EXTINF:-1 tvg-id="1884308" tvg-name="Tribanadhari Barbarik (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kROWntI6dunaPfN27lCu0NzyVNV.jpg" group-title="Movie: Telugu Movies",Tribanadhari Barbarik (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1884308.mp4
+#EXTINF:-1 tvg-id="1957401" tvg-name="Akhanda 2: Thaandavam (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg" group-title="Movie: Telugu Movies",Akhanda 2: Thaandavam (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1957401.mp4
+#EXTINF:-1 tvg-id="1953220" tvg-name="Drive (2025) FHD Dual Hindi-Telugu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGF9rIuALQS4LIAzzzNG042VP1.jpg" group-title="Movie: Telugu Movies",Drive (2025) FHD Dual Hindi-Telugu
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1953220.mkv
+#EXTINF:-1 tvg-id="1951687" tvg-name="Zebra - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCGgmmMD63pKH7lnmVJ5MMLQfOm.jpg" group-title="Movie: Telugu Movies",Zebra - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951687.mkv
+#EXTINF:-1 tvg-id="1951685" tvg-name="Virgin Boys - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4QoF3Be7CDzSnYjcUWSDXLwszz.jpg" group-title="Movie: Telugu Movies",Virgin Boys - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951685.mkv
+#EXTINF:-1 tvg-id="1951684" tvg-name="Uppu Kappurambu - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzduT5nNgmjvfD9pJom265S9te3.jpg" group-title="Movie: Telugu Movies",Uppu Kappurambu - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951684.mkv
+#EXTINF:-1 tvg-id="1951683" tvg-name="Tiragabadara Saami - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA5YAHQPaZQo0Ll7fC1q63SKKsN.jpg" group-title="Movie: Telugu Movies",Tiragabadara Saami - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951683.mkv
+#EXTINF:-1 tvg-id="1951682" tvg-name="The Family Star - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mLyHeWwU0Ocv9Jvk72IDqZqT7G.jpg" group-title="Movie: Telugu Movies",The Family Star - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951682.mkv
+#EXTINF:-1 tvg-id="1951681" tvg-name="Thandel - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaMcu3I9l3qyYovya7dwUcdU6ve.jpg" group-title="Movie: Telugu Movies",Thandel - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951681.mkv
+#EXTINF:-1 tvg-id="1951680" tvg-name="Subham - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hl3jiH0YjLRUZXWY2xqHNNTi1Eg.jpg" group-title="Movie: Telugu Movies",Subham - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951680.mkv
+#EXTINF:-1 tvg-id="1951679" tvg-name="Sri Sri Sri Raja Vaaru - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSeadehBiCFKQ3c3jKJpmb8kCDS.jpg" group-title="Movie: Telugu Movies",Sri Sri Sri Raja Vaaru - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951679.mkv
+#EXTINF:-1 tvg-id="1951678" tvg-name="Show Time - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFGOj6LDZachNPmXaGPQbeAu7jy.jpg" group-title="Movie: Telugu Movies",Show Time - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951678.mkv
+#EXTINF:-1 tvg-id="1951676" tvg-name="Samajavaragamana - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuyNHfcDJVwLfhgjHYmXlQZyK93.jpg" group-title="Movie: Telugu Movies",Samajavaragamana - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951676.mkv
+#EXTINF:-1 tvg-id="1951675" tvg-name="Salaar 2023 HD Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Salaar 2023 HD Hindi
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951675.mkv
+#EXTINF:-1 tvg-id="1951674" tvg-name="Saaree - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q94u10VJF75uyctLmqw5CL2S1d.jpg" group-title="Movie: Telugu Movies",Saaree - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951674.mkv
+#EXTINF:-1 tvg-id="1951673" tvg-name="Romantic - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2j1Qo6ROjbCTZCXrlhu04IogcFZ.jpg" group-title="Movie: Telugu Movies",Romantic - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951673.mkv
+#EXTINF:-1 tvg-id="1951672" tvg-name="Robinhood - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeH5oAM1A3zgXbvQ3L9GiDs3ldQ.jpg" group-title="Movie: Telugu Movies",Robinhood - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951672.mp4
+#EXTINF:-1 tvg-id="1951671" tvg-name="Rewind - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5GFIN5ytxkttKO5PIwbGLGzlWe.jpg" group-title="Movie: Telugu Movies",Rewind - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951671.mkv
+#EXTINF:-1 tvg-id="1951666" tvg-name="Rangasthalam - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiEzDgBBFC25Zd6z0r7sMngn5vr.jpg" group-title="Movie: Telugu Movies",Rangasthalam - 2018
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951666.mkv
+#EXTINF:-1 tvg-id="1951665" tvg-name="Ranga Ranga Vaibhavanga - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FiERyPvvgla3ebsDsxsOmet7FO.jpg" group-title="Movie: Telugu Movies",Ranga Ranga Vaibhavanga - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951665.mkv
+#EXTINF:-1 tvg-id="1951663" tvg-name="Pushpa: The Rise - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg" group-title="Movie: Telugu Movies",Pushpa: The Rise - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951663.mkv
+#EXTINF:-1 tvg-id="1951662" tvg-name="Pushpa 2 The Rule Reloaded Version 2025 1080px265 Multi-Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Pushpa 2 The Rule Reloaded Version 2025 1080px265 Multi-Audio
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951662.mkv
+#EXTINF:-1 tvg-id="1951661" tvg-name="Pushpa 2 - The Rule - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/759mIIerY4Njb8uPoj7AIXGSNh3.jpg" group-title="Movie: Telugu Movies",Pushpa 2 - The Rule - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951661.mkv
+#EXTINF:-1 tvg-id="1951660" tvg-name="Pottel - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0RTkcYbGVbMLkCC5e8kTtGTPvO.jpg" group-title="Movie: Telugu Movies",Pottel - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951660.mkv
+#EXTINF:-1 tvg-id="1951659" tvg-name="Paradha - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCo9QiSaW9KziUCMip6rWyZCgqK.jpg" group-title="Movie: Telugu Movies",Paradha - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951659.mp4
+#EXTINF:-1 tvg-id="1951658" tvg-name="Odela Railway Station - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gjt6oKDHccysnj30dj5nik8wem.jpg" group-title="Movie: Telugu Movies",Odela Railway Station - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951658.mkv
+#EXTINF:-1 tvg-id="1951657" tvg-name="Naa Saami Ranga - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xwNsmT0XPFF0Ssa7kB6FR1MZRz.jpg" group-title="Movie: Telugu Movies",Naa Saami Ranga - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951657.mkv
+#EXTINF:-1 tvg-id="1951656" tvg-name="Mr Bachchan - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55TWpe9GvJEx2dq8fWoroIbJRvI.jpg" group-title="Movie: Telugu Movies",Mr Bachchan - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951656.mkv
+#EXTINF:-1 tvg-id="1951655" tvg-name="Mokshapatam - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzeUUOythIpam7UAAnNtPM4mRGR.jpg" group-title="Movie: Telugu Movies",Mokshapatam - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951655.mkv
+#EXTINF:-1 tvg-id="1951654" tvg-name="Mathu Vadalara 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gDzqf5tSwnwfREEVJeTAZtK64F.jpg" group-title="Movie: Telugu Movies",Mathu Vadalara 2 - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951654.mkv
+#EXTINF:-1 tvg-id="1951653" tvg-name="Maharshi - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pV6xLQh54ga8oaQqJtUqLp12LwQ.jpg" group-title="Movie: Telugu Movies",Maharshi - 2019
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951653.mkv
+#EXTINF:-1 tvg-id="1951652" tvg-name="Mad Square 2025 1080px264 Dual Hindi Telugu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Mad Square 2025 1080px264 Dual Hindi Telugu
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951652.mkv
+#EXTINF:-1 tvg-id="1951650" tvg-name="Lucky Baskhar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg" group-title="Movie: Telugu Movies",Lucky Baskhar - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951650.mp4
+#EXTINF:-1 tvg-id="1951649" tvg-name="Love Me If You Dare - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSgCCh2hQo5Grs95hwQsAy3ZkdU.jpg" group-title="Movie: Telugu Movies",Love Me If You Dare - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951649.mkv
+#EXTINF:-1 tvg-id="1951648" tvg-name="Legally Veer - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WKeDF6A3s6DGOs8iocVe3BBZxM.jpg" group-title="Movie: Telugu Movies",Legally Veer - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951648.mkv
+#EXTINF:-1 tvg-id="1951647" tvg-name="Korameenu - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTfpFWGs0ZCIU6P7ScBlYflvm0G.jpg" group-title="Movie: Telugu Movies",Korameenu - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951647.mkv
+#EXTINF:-1 tvg-id="1951646" tvg-name="Kingdom AKA Saamrajya 2025 1080px265 10Bit Dual Hindi-Telugu HEVC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Kingdom AKA Saamrajya 2025 1080px265 10Bit Dual Hindi-Telugu HEVC
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951646.mkv
+#EXTINF:-1 tvg-id="1951645" tvg-name="Kingdom - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY3CT7RKVfJ9XcAthJscRHOUIfp.jpg" group-title="Movie: Telugu Movies",Kingdom - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951645.mp4
+#EXTINF:-1 tvg-id="1951644" tvg-name="Kanya Kumari - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqqLKFVfsvmyoHLpOKBdMuEIDpL.jpg" group-title="Movie: Telugu Movies",Kanya Kumari - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951644.mp4
+#EXTINF:-1 tvg-id="1951643" tvg-name="Kalinga - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y62MzCi3Auwb1T4aGDPNE2gLyIE.jpg" group-title="Movie: Telugu Movies",Kalinga - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951643.mkv
+#EXTINF:-1 tvg-id="1951642" tvg-name="Hit 3 2025 1080px265 HEVC Dual Hindi-Telugu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Hit 3 2025 1080px265 HEVC Dual Hindi-Telugu
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951642.mkv
+#EXTINF:-1 tvg-id="1951641" tvg-name="Hippi - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27ZykvkMI2eiMNlAAgryT5YubKf.jpg" group-title="Movie: Telugu Movies",Hippi - 2019
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951641.mkv
+#EXTINF:-1 tvg-id="1951640" tvg-name="Harom Hara - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxofVmNULRo3920pEW8zn2HYzdU.jpg" group-title="Movie: Telugu Movies",Harom Hara - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951640.mkv
+#EXTINF:-1 tvg-id="1951638" tvg-name="HIT: The 2nd Case - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tidXGOilCSa5sch1KGiEXrWeYCf.jpg" group-title="Movie: Telugu Movies",HIT: The 2nd Case - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951638.mkv
+#EXTINF:-1 tvg-id="1951637" tvg-name="Ghatikachalam - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjxyLloFbnjCHPm3XHBs6SZx3SA.jpg" group-title="Movie: Telugu Movies",Ghatikachalam - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951637.mkv
+#EXTINF:-1 tvg-id="1951636" tvg-name="Ghaati - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0thFjveYHvUjvnAhY5fjmnp5fM.jpg" group-title="Movie: Telugu Movies",Ghaati - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951636.mp4
+#EXTINF:-1 tvg-id="1951635" tvg-name="Gangs Of Godvari 2024 Hindi  1080px264" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Gangs Of Godvari 2024 Hindi  1080px264
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951635.mkv
+#EXTINF:-1 tvg-id="1951633" tvg-name="Game Changer - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg" group-title="Movie: Telugu Movies",Game Changer - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951633.mkv
+#EXTINF:-1 tvg-id="1951632" tvg-name="Fear - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg" group-title="Movie: Telugu Movies",Fear - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951632.mkv
+#EXTINF:-1 tvg-id="1951631" tvg-name="FCUK: Father Chitti Umaa Kaarthik - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFKvPXGMf8PxB8Bl3mvY0fPfqFx.jpg" group-title="Movie: Telugu Movies",FCUK: Father Chitti Umaa Kaarthik - 2021
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951631.mkv
+#EXTINF:-1 tvg-id="1951629" tvg-name="F3: Fun and Frustration - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6yJv8fyNONChZ6bSAGsLEnvDKt.jpg" group-title="Movie: Telugu Movies",F3: Fun and Frustration - 2022
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951629.mkv
+#EXTINF:-1 tvg-id="1951628" tvg-name="F2: Fun and Frustration - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuIiSZSPr7ioJJM5N0WZqSYLnJF.jpg" group-title="Movie: Telugu Movies",F2: Fun and Frustration - 2019
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951628.mp4
+#EXTINF:-1 tvg-id="1951627" tvg-name="Eagle - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjQN27x0Dfkmsi3SRRkAIatOr2p.jpg" group-title="Movie: Telugu Movies",Eagle - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951627.mkv
+#EXTINF:-1 tvg-id="1951626" tvg-name="Devaki Nandan Vasu Deva 2024 1080px264 Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Devaki Nandan Vasu Deva 2024 1080px264 Hindi
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951626.mkv
+#EXTINF:-1 tvg-id="1951625" tvg-name="Daaku Maharaaj - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGW9ad5TERuoluGSkgF1wHXP45H.jpg" group-title="Movie: Telugu Movies",Daaku Maharaaj - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951625.mkv
+#EXTINF:-1 tvg-id="1951623" tvg-name="Chaurya Paatam - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YLMmspugk0Td4cNBynfqmhZXxf.jpg" group-title="Movie: Telugu Movies",Chaurya Paatam - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951623.mkv
+#EXTINF:-1 tvg-id="1951621" tvg-name="Bubblegum - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDG9LQnzEY4ZMo2V3UEpYjGPlNx.jpg" group-title="Movie: Telugu Movies",Bubblegum - 2023
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951621.mkv
+#EXTINF:-1 tvg-id="1951620" tvg-name="Bloody Mary - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNpY5iiCv2sRXYmEeHA9SHT9Th2.jpg" group-title="Movie: Telugu Movies",Bloody Mary - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951620.mkv
+#EXTINF:-1 tvg-id="1951619" tvg-name="Blind Spot - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3IAunTLEQortp1ukcldxmFhodm.jpg" group-title="Movie: Telugu Movies",Blind Spot - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951619.mkv
+#EXTINF:-1 tvg-id="1951618" tvg-name="Bhaje Vaayu Vegam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KU5wBjO2ByCFdF9x23sKImMYVD.jpg" group-title="Movie: Telugu Movies",Bhaje Vaayu Vegam - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951618.mkv
+#EXTINF:-1 tvg-id="1951617" tvg-name="Bhairavam - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT4zhRKIgRLcoSOWbxsA6vMWLxx.jpg" group-title="Movie: Telugu Movies",Bhairavam - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951617.mkv
+#EXTINF:-1 tvg-id="1951616" tvg-name="Bakasura Restaurant - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyznPP82WBdWOYvKHbQq9bDv4Ng.jpg" group-title="Movie: Telugu Movies",Bakasura Restaurant - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951616.mp4
+#EXTINF:-1 tvg-id="1951615" tvg-name="Bachhala Malli - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLLtI62EYtuflXw3IjnyLaUZ2tG.jpg" group-title="Movie: Telugu Movies",Bachhala Malli - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951615.mkv
+#EXTINF:-1 tvg-id="1951614" tvg-name="Baby - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vOI8fX71B6QP4teu50Ml5DnKBg.jpg" group-title="Movie: Telugu Movies",Baby - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951614.mkv
+#EXTINF:-1 tvg-id="1951613" tvg-name="Baapu - A Father's Story - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwjAtrlT1swTJEdT4dhGdHidTjE.jpg" group-title="Movie: Telugu Movies",Baapu - A Father's Story - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951613.mkv
+#EXTINF:-1 tvg-id="1951612" tvg-name="Bāhubali: The Beginning - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="Movie: Telugu Movies",Bāhubali: The Beginning - 2015
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951612.mp4
+#EXTINF:-1 tvg-id="1951611" tvg-name="Once Upon a Warrior - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssgArgj7qbtZDd8r5P5b7ruVYU4.jpg" group-title="Movie: Telugu Movies",Once Upon a Warrior - 2011
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951611.mp4
+#EXTINF:-1 tvg-id="1951610" tvg-name="Aho Vikramaarka! - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BO1QGOsRGdYJ2ASzKbpXyUd2ua.jpg" group-title="Movie: Telugu Movies",Aho Vikramaarka! - 2024
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951610.mkv
+#EXTINF:-1 tvg-id="1951608" tvg-name="Agent Sai Srinivasa Athreya - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMVfhhWfHLawVp3kd55KBy3VBsW.jpg" group-title="Movie: Telugu Movies",Agent Sai Srinivasa Athreya - 2019
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951608.mkv
+#EXTINF:-1 tvg-id="1951607" tvg-name="Agent 2023 Uncut 1080px265 HEVC DS4K Hindi-Telugu ESub" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movie: Telugu Movies",Agent 2023 Uncut 1080px265 HEVC DS4K Hindi-Telugu ESub
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951607.mkv
+#EXTINF:-1 tvg-id="1951606" tvg-name="28 Degree Celsius - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uh1vtpaSAc8geSdnJ8SciiH0LS.jpg" group-title="Movie: Telugu Movies",28 Degree Celsius - 2025
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1951606.mkv
+#EXTINF:-1 tvg-id="1931022" tvg-name="Santhana Prapthirasthu (2025) FHD Dual Hindi-Telugu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o35sT4PsRIQthzcNwgRV5uCJVIW.jpg" group-title="Movie: Telugu Movies",Santhana Prapthirasthu (2025) FHD Dual Hindi-Telugu
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1931022.mkv
+#EXTINF:-1 tvg-id="1931020" tvg-name="Little Hearts (2025) HD Dual Hindi-Telugu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDTHRLgYTUAZimgNsmG6t2Saabz.jpg" group-title="Movie: Telugu Movies",Little Hearts (2025) HD Dual Hindi-Telugu
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1931020.mkv
+#EXTINF:-1 tvg-id="1921701" tvg-name="Mass Jathara (2025) BluRay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg" group-title="Movie: Telugu Movies",Mass Jathara (2025) BluRay
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1921701.mp4
+#EXTINF:-1 tvg-id="1915240" tvg-name="Thamma (2025) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="Movie: Telugu Movies",Thamma (2025) HD
+http://mediatv.isppak.eu:8080/movie/test1234/test1234/1915240.mkv
